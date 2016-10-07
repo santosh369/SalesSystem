@@ -20,6 +20,8 @@ public class WriteData {
 			f.write("\n");
 			f.flush();
 			f.close();
+			
+			System.out.println("Kiss me baby");
 	
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
